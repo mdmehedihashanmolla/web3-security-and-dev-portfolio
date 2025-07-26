@@ -1,19 +1,18 @@
 # 🛡️🟢 Web3 Security & Development Portfolio
 
 > **Smart Contract Security Researcher & Developer**  
-> *I live where bugs hide.*
+> *Building the future by breaking what's broken.*
 
 ## 📋 Overview
 
-This repository showcases my practical expertise in smart contract security research and development. Every project includes working code, comprehensive tests, and detailed documentation.
+This is a proof-of-work portfolio built to showcase my capabilities as a smart contract **security researcher** and **developer**. Every directory contains real contributions: vulnerability findings, exploit proofs, contest audits, historical hack analyses, secure development practices, and research-backed tools.
 
 **What you'll find here:**
-- Real vulnerability research with proof-of-concept exploits
-- Competitive audit submissions and findings
-- Historical hack replications with technical analysis
-- Custom development projects and tooling
-- Educational content and research notes
-
+- 🔍 Competitive audit submissions (Code4rena, Sherlock, etc.)
+- 💣 Vulnerability research with reproducible PoCs
+- 🧠 Replications of real-world hacks and technical breakdowns
+- 🛠️ Custom-built tools and secure smart contract components
+- 📚 Educational content, formal notes, and internal research
 ---
 
 ## 📚 Table of Contents
