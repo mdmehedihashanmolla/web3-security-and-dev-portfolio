@@ -14,15 +14,15 @@
 
 ## 📋 Overview
 
-This is a proof-of-work portfolio built to showcase my capabilities as a smart contract **security researcher** and **developer**. Every directory contains real contributions: vulnerability findings, exploit proofs, contest audits, historical hack analyses, secure development practices, and research-backed tools.
+A concise showcase of my work as a **Web3 Security Researcher** and **Developer**.
 
-**What you'll find here:**
-- 🔍 Competitive audit submissions 
-- 💣 Vulnerability research with reproducible PoCs
-- 🧠 Replications of real-world hacks and technical breakdowns
-- 🛠️ Custom-built tools and secure smart contract components
-- 📚 Educational content, formal notes, and internal research
----
+## 🚀 Highlights
+- 🛡️ Competitive audit reports  
+- 💥 Vulnerability research with PoCs  
+- 📊 Real-world hack analyses  
+- 🔧 Custom tools & secure contracts  
+- 📝 Research and educational notes
+
 
 ## 📚 Table of Contents
 
