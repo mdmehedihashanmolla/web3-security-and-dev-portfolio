@@ -14,7 +14,7 @@
 
 ## 📋 Overview
 
-A concise showcase of my work as a **Web3 Security Researcher** and **Developer**.
+A showcase of real-world work as a **Web3 Security Researcher** and **Developer**.
 
 ## 🚀 Highlights
 - 🛡️ Competitive audit reports  
