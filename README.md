@@ -1,12 +1,7 @@
 # 🛡️🟢 Web3 Security & Development Portfolio
 
 > **Smart Contract Security Researcher & Developer**  
-> *Demonstrating expertise through code, not claims*
-
-[![Portfolio Status](https://img.shields.io/badge/Portfolio-Active-brightgreen)](https://github.com/yourusername/web3-security-portfolio)
-[![Audits](https://img.shields.io/badge/Competitive%20Audits-10%2B-blue)](#competitive-audits)
-[![CTFs](https://img.shields.io/badge/CTF%20Solutions-5%2B-orange)](#ctf-solutions)
-[![Research](https://img.shields.io/badge/Research%20Papers-Active-purple)](#research-notes)
+> *I live where bugs hide.*
 
 ## 📋 Overview
 
