@@ -3,15 +3,12 @@
   <p><strong> Web3 Security Researcher & Developer</strong></p>
   <p><em>Building the future by breaking what's broken.</em></p>
   
- <img src="https://img.shields.io/badge/Competitive_Audits-✓-blue" alt="Competitive Audits" />
-&nbsp;
-<img src="https://img.shields.io/badge/Shadow_Audits-✓-gray" alt="Shadow Audits" />
-&nbsp;
-<img src="https://img.shields.io/badge/CTF_Solutions-✓-orange" alt="CTF Solutions" />
-&nbsp;
-<img src="https://img.shields.io/badge/Dev_Projects-✓-green" alt="Development Projects" />
-&nbsp;
-<img src="https://img.shields.io/badge/Vulnerability_Research-✓-red" alt="Vulnerability Research" />
+  <img src="https://img.shields.io/badge/Competitive Audits-blueviolet?style=flat-square&logo=shield" alt="Competitive Audits" />
+  <img src="https://img.shields.io/badge/Shadow Audits-gray?style=flat-square&logo=code" alt="Shadow Audits" />
+  <img src="https://img.shields.io/badge/CTF Solutions-orange?style=flat-square&logo=terminal" alt="CTF Solutions" />
+  <img src="https://img.shields.io/badge/Dev Projects-green?style=flat-square&logo=ethereum" alt="Development Projects" />
+  <img src="https://img.shields.io/badge/Vulnerability Research-red?style=flat-square&logo=bug" alt="Vulnerability Research" />
+
 
 </div>
 
