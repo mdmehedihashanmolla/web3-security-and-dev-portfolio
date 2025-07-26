@@ -23,6 +23,7 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 - 📝 Research and educational notes
 
 <div align="center">
+
 ## 📚 Table of Contents
 
 | Section | Link |
@@ -41,6 +42,7 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 | 🤝 Connect & Collaborate | [Link](#-connect--collaborate) |
 | 📜 License & Disclaimer | [Link](#-license--disclaimer) |
 | 🎯 Philosophy | [Link](#-philosophy) |
+
 </div>
 
 ---
