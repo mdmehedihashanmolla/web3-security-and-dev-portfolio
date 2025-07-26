@@ -100,6 +100,21 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 
 ---
 
+## 🐛 Vulnerability Research
+
+*Original vulnerability research and proof-of-concepts*
+
+| Vulnerability Type | Severity | Examples | Test Suite | Mitigation Guide |
+|-------------------|----------|----------|------------|------------------|
+| [**Reentrancy Attacks**](./vulnerabilities/reentrancy/) | 🔴 High | 5 variants | [🧪 Tests](./vulnerabilities/reentrancy/test/) | [🛡️ Guide](./vulnerabilities/reentrancy/mitigation.md) |
+| [**Integer Overflows**](./vulnerabilities/overflow/) | 🟡 Medium | 3 patterns | [🧪 Tests](./vulnerabilities/overflow/test/) | [🛡️ Guide](./vulnerabilities/overflow/mitigation.md) |
+| [**Access Control**](./vulnerabilities/access-control/) | 🔴 High | 4 scenarios | [🧪 Tests](./vulnerabilities/access-control/test/) | [🛡️ Guide](./vulnerabilities/access-control/mitigation.md) |
+| [**Price Oracle**](./vulnerabilities/oracle/) | 🟠 High | 6 manipulations | 🔄 | *In Progress* |
+
+**[📁 View All Vulnerability Research →](./vulnerabilities/)**
+
+---
+
 ## ⚡ Exploit Replications
 
 *Historical DeFi hacks recreated for educational purposes*
@@ -117,21 +132,6 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 - 📈 **Economic impact analysis**
 
 **[📁 View All Exploit Replications →](./exploits/)**
-
----
-
-## 🐛 Vulnerability Research
-
-*Original vulnerability research and proof-of-concepts*
-
-| Vulnerability Type | Severity | Examples | Test Suite | Mitigation Guide |
-|-------------------|----------|----------|------------|------------------|
-| [**Reentrancy Attacks**](./vulnerabilities/reentrancy/) | 🔴 High | 5 variants | [🧪 Tests](./vulnerabilities/reentrancy/test/) | [🛡️ Guide](./vulnerabilities/reentrancy/mitigation.md) |
-| [**Integer Overflows**](./vulnerabilities/overflow/) | 🟡 Medium | 3 patterns | [🧪 Tests](./vulnerabilities/overflow/test/) | [🛡️ Guide](./vulnerabilities/overflow/mitigation.md) |
-| [**Access Control**](./vulnerabilities/access-control/) | 🔴 High | 4 scenarios | [🧪 Tests](./vulnerabilities/access-control/test/) | [🛡️ Guide](./vulnerabilities/access-control/mitigation.md) |
-| [**Price Oracle**](./vulnerabilities/oracle/) | 🟠 High | 6 manipulations | 🔄 | *In Progress* |
-
-**[📁 View All Vulnerability Research →](./vulnerabilities/)**
 
 ---
 
