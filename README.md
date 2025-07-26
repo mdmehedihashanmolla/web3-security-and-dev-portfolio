@@ -145,20 +145,6 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 | [**Upgradeable Lending**](./projects/proxy-lending/) | Proxy Pattern | OpenZeppelin, Hardhat | 🔄 Beta | Modular lending protocol with upgrade mechanisms |
 | [**MEV Protection**](./projects/mev-protection/) | MEV | Flashbots, Solidity | 📅 Planned | Front-running protection for DEX trades |
 
-### Featured Project: Gas-Optimized Vault
-```solidity
-// Achieving 40% gas reduction through assembly optimizations
-contract GasVault is ERC4626 {
-    using AssemblyUtils for uint256;
-    
-    function deposit(uint256 assets, address receiver) 
-        public override returns (uint256 shares) {
-        // Custom assembly implementation
-        assembly { /* optimized logic */ }
-    }
-}
-```
-
 **[📁 View All Development Projects →](./projects/)**
 
 ---
@@ -224,27 +210,6 @@ python slot-analyzer.py MyContract.sol
 | [**Security Workshop**](./content/workshops/) | YouTube | 📅 Planned | *Coming Soon* |
 
 **[📁 View All Content →](./content/)**
-
----
-
-## 📊 Portfolio Statistics
-
-### 🎯 Security Research Impact
-- **Vulnerabilities Discovered**: 15+ unique findings
-- **Contest Submissions**: 8 platforms, 20+ contests
-- **Bounty Earnings**: $X,XXX total rewards
-- **Code Coverage**: 95%+ test coverage across all projects
-
-### 💻 Development Metrics
-- **Smart Contracts**: 50+ implementations
-- **Gas Optimizations**: Average 30% reduction
-- **Test Suites**: 500+ comprehensive tests
-- **Documentation**: 100% coverage
-
-### 📈 Community Engagement
-- **Educational Content**: 25+ technical articles
-- **Open Source**: 100% public repository
-- **Code Reviews**: 50+ community contributions
 
 ---
 
