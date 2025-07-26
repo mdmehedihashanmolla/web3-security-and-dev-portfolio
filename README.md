@@ -1,4 +1,4 @@
-# 🛡️ Web3 Security & Development Portfolio
+# 🛡️🟢 Web3 Security & Development Portfolio
 
 > **Smart Contract Security Researcher & Developer**  
 > *Demonstrating expertise through code, not claims*
@@ -58,7 +58,7 @@ This repository showcases my practical expertise in smart contract security rese
 - 🎯 **High-severity** findings in production protocols
 - 💰 **$X,XXX** in total bounties earned
 
-**[📁 View All Audit Reports →](./audits/)**
+**[📁 View All Audit Reports →](./audeits/)**
 
 ---
 
