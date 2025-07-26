@@ -38,10 +38,8 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 | 📖 Research Notes | [Link](#-research-notes) |
 | 🛠️ Custom Tooling | [Link](#️-custom-tooling) |
 | 📱 Educational Content | [Link](#-educational-content) |
-| 📊 Portfolio Statistics | [Link](#-portfolio-statistics) |
 | 🤝 Connect & Collaborate | [Link](#-connect--collaborate) |
 | 📜 License & Disclaimer | [Link](#-license--disclaimer) |
-| 🎯 Philosophy | [Link](#-philosophy) |
 
 </div>
 
@@ -274,17 +272,3 @@ This repository is licensed under [MIT License](./LICENSE).
 
 ---
 
-## 🎯 Philosophy
-
-> *"In Web3 security, your reputation is your code. This portfolio is my proof-of-work."*
-
-**Core Principles:**
-- 🔍 **Security First**: Every line audited, every function tested
-- 📚 **Learn in Public**: Share knowledge, grow together  
-- 🛠️ **Build to Break**: Understanding through deconstruction
-- 🤝 **Community Driven**: Collaborative security research
-
----
-
-
-*Last Updated: July 2025 | Portfolio Version 2.0*
