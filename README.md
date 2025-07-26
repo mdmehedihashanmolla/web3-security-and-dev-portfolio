@@ -36,7 +36,6 @@ This repository showcases my practical expertise in smart contract security rese
 | 🛠️ Custom Tooling | [Link](#️-custom-tooling) |
 | 📱 Educational Content | [Link](#-educational-content) |
 | 📊 Portfolio Statistics | [Link](#-portfolio-statistics) |
-| 🚀 Getting Started | [Link](#-getting-started) |
 | 🤝 Connect & Collaborate | [Link](#-connect--collaborate) |
 | 📜 License & Disclaimer | [Link](#-license--disclaimer) |
 | 🎯 Philosophy | [Link](#-philosophy) |
@@ -243,52 +242,6 @@ python slot-analyzer.py MyContract.sol
 - **Educational Content**: 25+ technical articles
 - **Open Source**: 100% public repository
 - **Code Reviews**: 50+ community contributions
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-```bash
-# Install required tools
-curl -L https://foundry.paradigm.xyz | bash
-foundryup
-npm install -g hardhat
-```
-
-### Running the Portfolio
-```bash
-# Clone repository
-git clone https://github.com/yourusername/web3-security-portfolio
-cd web3-security-portfolio
-
-# Install dependencies
-forge install
-npm install
-
-# Run all tests
-forge test
-npm test
-
-# Generate coverage report
-forge coverage
-```
-
-### Project Structure
-```
-📁 web3-security-portfolio/
-├── 📁 audits/           # Competitive audit submissions
-├── 📁 shadow-audits/    # Independent protocol reviews
-├── 📁 ctf/              # Capture The Flag solutions
-├── 📁 exploits/         # Historical hack replications
-├── 📁 vulnerabilities/  # Original vulnerability research
-├── 📁 projects/         # Development projects
-├── 📁 practice/         # Learning and experiments
-├── 📁 research/         # Technical documentation
-├── 📁 tools/            # Custom automation tools
-├── 📁 content/          # Educational materials
-└── 📄 README.md         # This file
-```
 
 ---
 
