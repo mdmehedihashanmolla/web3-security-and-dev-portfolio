@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🛡️ Web3 Security & Development Portfolio</h1>
-  <p><strong>Smart Contract Security Researcher & Developer</strong></p>
-  <p><em>Building a secure Web3 future by identifying and fixing vulnerabilities.</em></p>
+  <p><strong> Web3 Security Researcher & Developer</strong></p>
+  <p><em>Building the future by breaking what's broken.</em></p>
   
   <img src="https://img.shields.io/badge/Security-Focused-brightgreen" alt="Security Focused" />
   <img src="https://img.shields.io/badge/Smart_Contracts-Solidity-blue" alt="Solidity" />
