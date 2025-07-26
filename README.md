@@ -22,6 +22,7 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 - 🔧 Custom tools & secure contracts  
 - 📝 Research and educational notes
 
+<div>
 
 ## 📚 Table of Contents
 
@@ -41,6 +42,8 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 | 🤝 Connect & Collaborate | [Link](#-connect--collaborate) |
 | 📜 License & Disclaimer | [Link](#-license--disclaimer) |
 | 🎯 Philosophy | [Link](#-philosophy) |
+
+</div>
 
 ---
 
@@ -282,7 +285,6 @@ This repository is licensed under [MIT License](./LICENSE).
 - 🤝 **Community Driven**: Collaborative security research
 
 ---
-</div>
 
 
 *Last Updated: July 2025 | Portfolio Version 2.0*
