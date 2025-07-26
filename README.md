@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Dev Projects-green?style=flat-square&logo=ethereum" alt="Development Projects" />
   <img src="https://img.shields.io/badge/Vulnerability Research-red?style=flat-square&logo=bug" alt="Vulnerability Research" />
 
-
+</div>
 
 ## 📋 Overview
 
