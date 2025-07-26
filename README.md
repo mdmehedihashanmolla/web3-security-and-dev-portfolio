@@ -1,14 +1,19 @@
-# 🛡️🟢 Web3 Security & Development Portfolio
-
-> **Smart Contract Security Researcher & Developer**  
-> *Building the future by breaking what's broken.*
+<div align="center">
+  <h1>🛡️ Web3 Security & Development Portfolio</h1>
+  <p><strong>Smart Contract Security Researcher & Developer</strong></p>
+  <p><em>Building a secure Web3 future by identifying and fixing vulnerabilities.</em></p>
+  
+  <img src="https://img.shields.io/badge/Security-Focused-brightgreen" alt="Security Focused" />
+  <img src="https://img.shields.io/badge/Smart_Contracts-Solidity-blue" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Audits-Code4rena%20|%20Sherlock-orange" alt="Audits" />
+</div>
 
 ## 📋 Overview
 
 This is a proof-of-work portfolio built to showcase my capabilities as a smart contract **security researcher** and **developer**. Every directory contains real contributions: vulnerability findings, exploit proofs, contest audits, historical hack analyses, secure development practices, and research-backed tools.
 
 **What you'll find here:**
-- 🔍 Competitive audit submissions .
+- 🔍 Competitive audit submissions 
 - 💣 Vulnerability research with reproducible PoCs
 - 🧠 Replications of real-world hacks and technical breakdowns
 - 🛠️ Custom-built tools and secure smart contract components
