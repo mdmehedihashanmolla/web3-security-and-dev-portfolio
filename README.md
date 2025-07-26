@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/Vulnerability Research-red?style=flat-square&logo=bug" alt="Vulnerability Research" />
 
 
-</div>
 
 ## 📋 Overview
 
@@ -283,5 +282,7 @@ This repository is licensed under [MIT License](./LICENSE).
 - 🤝 **Community Driven**: Collaborative security research
 
 ---
+</div>
+
 
 *Last Updated: July 2025 | Portfolio Version 2.0*
