@@ -213,27 +213,31 @@ python slot-analyzer.py MyContract.sol
 
 ---
 
-## 🤝 Connect & Collaborate
+# 🌐 Connect & Collaborate  
 
-**Professional Profiles:**
-- 🐦 Twitter: [@0xMehediSec](https://x.com/0xMehediSec)
-- 💼 LinkedIn: [MD Mehedi Hashan Molla](https://www.linkedin.com/in/0xmehedisec/)
-- 📧 Email: mdmehedihashanmolla@gmail.com
-- 🌐 Blog: [@mdmehedihashanmolla](https://medium.com/@mdmehedihashanmolla)
+### 🔗 **Professional Profiles**  
+| Platform       | Link                                                                 |
+|----------------|----------------------------------------------------------------------|
+| 🐦 **Twitter**  | [@0xMehediSec](https://x.com/0xMehediSec)                           |
+| 💼 **LinkedIn** | [MD Mehedi Hashan Molla](https://www.linkedin.com/in/0xmehedisec/)  |
+| 📧 **Email**    | `mdmehedihashanmolla@gmail.com`                                     |
+| ✍️ **Blog**     | [Medium Articles](https://medium.com/@mdmehedihashanmolla)          |
 
-**🤝 Open to:**
-- 🛡️ Web3 audits (DeFi, L2s, protocols)  
-- 🛠️ Smart contract & full-stack development  
-- 🧠 Security research & tooling  
-- 🎤 Public speaking and mentorship
+### 🚀 **Open To**  
+- **🛡️ Web3 Audits**  
+  → DeFi protocols | L2 solutions | Novel architectures  
+- **👨‍💻 Development**  
+  → Smart Contracts | Full-Stack dApps | Security Tooling  
+- **🔬 Research**  
+  → Novel attack vectors | Gas optimization | Protocol analysis  
+- **🎤 Engagement**  
+  → Conference Talks | Mentorship | Technical Writing  
 
----
+---  
 
-## 📜 Disclaimer
+# ⚠️ Disclaimer  
 
-**⚠️ For Educational Use Only**  
-
-    All vulnerability demonstrations, exploit replications, and research content are shared strictly for **educational purposes**.  Do not use this code or techniques for malicious activity.
-
+```diff
+- IMPORTANT: Educational Content Only  
 ---
 
