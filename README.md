@@ -48,11 +48,10 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 
 *Professional audit contest submissions and rankings*
 
-| Contest Platform | Protocol | Date | Status | Findings | Report |
-|------------------|----------|------|--------|----------|--------|
-| **Code4rena** | [Vault Protocol](./audits/code4rena/vault-protocol/) | Jul 2025 | ✅ Submitted | 3 Medium, 1 High | [📄 Report](./audits/code4rena/vault-protocol/findings.md) |
-| **Sherlock** | [LendingX Protocol](./audits/sherlock/lendingx/) | Aug 2025 | 🔄 In Progress | TBD | *Coming Soon* |
-| **CodeHawks** | DeFi Aggregator | Sep 2025 | 📅 Scheduled | - | *Upcoming* |
+| Contest Platform  | Protocol | Language | Date | Report |
+|----------|----------|----------|------|--------|
+| **Code4rena** |[Vault Protocol(Demo Structure)](./audits/code4rena/vault-protocol/) | Solidity | Jul 2025  | [📄 Findings(Demo Structure)](./audits/code4rena/vault-protocol/findings.md) |
+
 
 ### Key Achievements
 - 🥇 **Top 10%** ranking in Code4rena contests
