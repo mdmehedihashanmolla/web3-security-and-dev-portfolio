@@ -236,8 +236,7 @@ python slot-analyzer.py MyContract.sol
 
 # ⚠️ Disclaimer  
 
-```diff
-
-- IMPORTANT: Educational Content Only  
-
+**For Educational Use Only**  
+All code, writeups, and exploits in this repository are for **educational purposes only**.  
+Do not use this content for unauthorized or malicious activities.
 
