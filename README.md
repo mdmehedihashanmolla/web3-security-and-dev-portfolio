@@ -218,14 +218,14 @@ python slot-analyzer.py MyContract.sol
 **Professional Profiles:**
 - 🐦 Twitter: [@0xMehediSec](https://x.com/0xMehediSec)
 - 💼 LinkedIn: [MD Mehedi Hashan Molla](https://www.linkedin.com/in/0xmehedisec/)
-- 📧 Email: security@yourdomain.com
-- 🌐 Blog: [yourblog.com](https://yourblog.com)
+- 📧 Email: mdmehedihashanmolla@gmail.com
+- 🌐 Blog: [@mdmehedihashanmolla](https://medium.com/@mdmehedihashanmolla)
 
-**Open for:**
-- Smart contract security audits
-- Development collaborations  
-- Speaking engagements
-- Technical mentoring
+**🤝 Open to:**
+- 🛡️ Web3 audits (DeFi, L2s, protocols)  
+- 🛠️ Smart contract & full-stack development  
+- 🧠 Security research & tooling  
+- 🎤 Public speaking and mentorship
 
 ---
 
