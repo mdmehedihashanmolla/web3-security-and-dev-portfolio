@@ -232,6 +232,7 @@ python slot-analyzer.py MyContract.sol
 ## 📜 Disclaimer
 
 **⚠️ For Educational Use Only**  
+
     All vulnerability demonstrations, exploit replications, and research content are shared strictly for **educational purposes**.  Do not use this code or techniques for malicious activity.
 
 ---
