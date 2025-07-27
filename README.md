@@ -216,8 +216,8 @@ python slot-analyzer.py MyContract.sol
 ## 🤝 Connect & Collaborate
 
 **Professional Profiles:**
-- 🐦 Twitter: [@yourusername](https://twitter.com/yourusername)
-- 💼 LinkedIn: [Your Name](https://linkedin.com/in/yourname)
+- 🐦 Twitter: [@0xMehediSec](https://x.com/0xMehediSec)
+- 💼 LinkedIn: [MD Mehedi Hashan Molla](https://www.linkedin.com/in/0xmehedisec/)
 - 📧 Email: security@yourdomain.com
 - 🌐 Blog: [yourblog.com](https://yourblog.com)
 
