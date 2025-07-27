@@ -39,8 +39,7 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 | 🛠️ Custom Tooling | [Link](#️-custom-tooling) |
 | 📱 Educational Content | [Link](#-educational-content) |
 | 🤝 Connect & Collaborate | [Link](#-connect--collaborate) |
-| 📜 License & Disclaimer | [Link](#-disclaimer) |
-
+| 📜 Disclaimer | [Link](#️-disclaimer) |
 </div>
 
 ---
@@ -238,6 +237,8 @@ python slot-analyzer.py MyContract.sol
 # ⚠️ Disclaimer  
 
 ```diff
+
 - IMPORTANT: Educational Content Only  
+
 ---
 
