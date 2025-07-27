@@ -53,7 +53,7 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 | **Code4rena**    | [Vault Protocol (Demo Structure)](./audits/code4rena/vault-protocol/) | Solidity  | Jul 2025 | [📄 Findings](./audits/code4rena/vault-protocol/findings.md) |
 
 
-### Key Achievements
+### Key Achievements  *(Demo Format)*
 - 🥇 **Top 10%** ranking in Code4rena contests
 - 🎯 **High-severity** findings in production protocols
 - 💰 **$X,XXX** in total bounties earned
