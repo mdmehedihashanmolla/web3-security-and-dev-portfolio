@@ -39,7 +39,7 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 | 🛠️ Custom Tooling | [Link](#️-custom-tooling) |
 | 📱 Educational Content | [Link](#-educational-content) |
 | 🤝 Connect & Collaborate | [Link](#-connect--collaborate) |
-| 📜 License & Disclaimer | [Link](#-license--disclaimer) |
+| 📜 License & Disclaimer | [Link](#-disclaimer) |
 
 </div>
 
@@ -229,11 +229,11 @@ python slot-analyzer.py MyContract.sol
 
 ---
 
-## 📜 License & Disclaimer
+## 📜 Disclaimer
 
-This repository is licensed under [MIT License](./LICENSE).
-
-**⚠️ Educational Purpose:** All vulnerability demonstrations and exploit replications are for educational purposes only. Do not use this code maliciously.
+**⚠️ For Educational Use Only**  
+All vulnerability demonstrations, exploit replications, and research content are shared strictly for **educational purposes**.  
+Do not use this code or techniques for malicious activity.
 
 ---
 
