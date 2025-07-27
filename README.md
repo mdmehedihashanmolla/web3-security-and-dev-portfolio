@@ -240,5 +240,4 @@ python slot-analyzer.py MyContract.sol
 
 - IMPORTANT: Educational Content Only  
 
----
 
