@@ -113,7 +113,7 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 *Historical DeFi hacks recreated for educational purposes*
 
 | Incident | Date | Loss (USD) | Vulnerability | PoC |
-|----------|------|------------|---------------|--------|-----|
+|----------|------|------------|---------------|-----|
 | [**Euler Finance**](./exploits/euler-2023/) | Mar 2023 | $196M | Donation Attack | [🧪 Test](./exploits/euler-2023/test/EulerExploit.t.sol) |
 
 **[📁 View All Exploit Replications →](./exploits/)**
