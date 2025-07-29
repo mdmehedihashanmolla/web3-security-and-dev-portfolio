@@ -66,7 +66,7 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 - 🎯 **High-severity** findings in production protocols
 - 💰 **$X,XXX** in total bounties earned
 
-**[📁 View All Audit Reports →](https://github.com/mdmehedihashanmolla/web3-security-and-dev-portfolio/tree/main/01-competitive-audits)**
+**[📁 View All Audit Reports →](https://github.com/mdmehedihashanmolla/web3-security-and-dev-portfolio/tree/main/01-Competitive-Audits)**
 
 ---
 
@@ -79,7 +79,7 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 | [**Uniswap V3**](./shadow-audits/uniswap-v3/) | DEX (Demo Structure) | Concentrated Liquidity | Solidity | March 2025 | [📋 PDF](./shadow-audits/uniswap-v3/security-analysis.md) |
 
 
-**[📁 View All Shadow Audits →](https://github.com/mdmehedihashanmolla/web3-security-and-dev-portfolio/tree/main/02-shadow-audits)**
+**[📁 View All Shadow Audits →](https://github.com/mdmehedihashanmolla/web3-security-and-dev-portfolio/tree/main/02-Shadow-Audits)**
 
 ---
 
@@ -92,7 +92,7 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 | [**Reentrancy Attacks**](./vulnerabilities/reentrancy/) | 🔴 High | [📖 Theory](./vulnerabilities/reentrancy/theory.md) | 5 variants | [🧪 Tests](./vulnerabilities/reentrancy/test/) | [🛡️ Guide](./vulnerabilities/reentrancy/mitigation.md) |
 
 
-**[📁 View All Vulnerability Research →](https://github.com/mdmehedihashanmolla/web3-security-and-dev-portfolio/tree/main/03-vulnerabilities)**
+**[📁 View All Vulnerability Research →](https://github.com/mdmehedihashanmolla/web3-security-and-dev-portfolio/tree/main/03-Vulnerability-Research)**
 
 ---
 
@@ -116,7 +116,7 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 |----------|------|------------|---------------|-----|
 | [**Euler Finance**](./exploits/euler-2023/) | Mar 2023 | $196M | Donation Attack | [🧪 Test](./exploits/euler-2023/test/EulerExploit.t.sol) |
 
-**[📁 View All Exploit Replications →](./exploits/)**
+**[📁 View All Exploit Replications →](https://github.com/mdmehedihashanmolla/web3-security-and-dev-portfolio/tree/main/05-Exploit-Replications)**
 
 ---
 
