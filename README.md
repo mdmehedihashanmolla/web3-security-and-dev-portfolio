@@ -96,6 +96,23 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 
 ---
 
+## 💻 Smart Contract Projects
+
+*Production-ready smart contracts with comprehensive security measures*
+
+| Project Name | Type | Features | Language | Date | 
+|--------------|------|----------|----------|------|
+| [**DeFi Vault Protocol**](./smart-contracts/defi-vault/) | DeFi Vault (Demo Structure) | Auto-compounding, Flash Loan Protection | Solidity | Aug 2025 | 
+### Key Features *(Demo Format)*
+- 🔒 **Gas-optimized** contracts with comprehensive testing
+- 🛡️ **Security-first** development with formal verification
+- 📊 **100% test coverage** with fuzzing and invariant testing
+- 🚀 **Production deployments** on multiple networks
+
+**[📁 View All Smart Contract Projects →](https://github.com/mdmehedihashanmolla/web3-security-and-dev-portfolio/tree/main/07-smart-contract-projects)**
+
+---
+
 ## 🎯 CTF Solutions
 
 *Capture The Flag challenges and educational platforms*
