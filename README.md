@@ -122,21 +122,21 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 
 ## 🎯 CTF Solutions
 
-*Capture The Flag challenges and educational platforms*
-
 ### Ethernaut Solutions
-| Challenge | Difficulty | Status | Solution | Writeup |
-|-----------|------------|--------|----------|---------|
-| [Fallback](./ctf/ethernaut/01-fallback/) | ⭐ | ✅ | [💻 Code](./ctf/ethernaut/01-fallback/Exploit.sol) | [📝 Writeup](./ctf/ethernaut/01-fallback/README.md) |
-| [Fallout](./ctf/ethernaut/02-fallout/) | ⭐ | ✅ | [💻 Code](./ctf/ethernaut/02-fallout/Exploit.sol) | [📝 Writeup](./ctf/ethernaut/02-fallout/README.md) |
-| [CoinFlip](./ctf/ethernaut/03-coinflip/) | ⭐⭐ | ✅ | [💻 Code](./ctf/ethernaut/03-coinflip/Exploit.sol) | [📝 Writeup](./ctf/ethernaut/03-coinflip/README.md) |
+| Challenge | Topic | Solution |
+|-----------|-------|----------|
+| [Fallback](./ctf/ethernaut/01-fallback/) | Access Control | [💻 Code](./ctf/ethernaut/01-fallback/Exploit.sol) |
 
 ### Damn Vulnerable DeFi Solutions
-| Challenge | Focus | Status | Solution | Key Concepts |
-|-----------|-------|--------|----------|--------------|
-| [Unstoppable](./ctf/dvd/01-unstoppable/) | Flash Loans | ✅ | [💻 Code](./ctf/dvd/01-unstoppable/Exploit.sol) | Asset/Share Balance |
-| [Naive Receiver](./ctf/dvd/02-naive-receiver/) | Flash Loans | ✅ | [💻 Code](./ctf/dvd/02-naive-receiver/Exploit.sol) | Callback Validation |
-| [Truster](./ctf/dvd/03-truster/) | Flash Loans | 🔄 | *In Progress* | Function Calls |
+| Challenge | Topic | Solution |
+|-----------|-------|----------|
+| [Unstoppable](./ctf/dvd/01-unstoppable/) | Flash Loans | [💻 Code](./ctf/dvd/01-unstoppable/Exploit.sol) |
+
+### Capture The Ether Solutions
+| Challenge | Topic | Solution |
+|-----------|-------|----------|
+| [Deploy a contract](./ctf/cte/01-deploy/) | Contract Deployment | [💻 Code](./ctf/cte/01-deploy/Solution.sol) |
+
 
 **[📁 View All CTF Solutions →](./ctf/)**
 
