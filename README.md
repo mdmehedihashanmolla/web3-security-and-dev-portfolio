@@ -38,7 +38,7 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 | 🐛 Vulnerability Research | [Link](#-vulnerability-research) |
 | 💻 Smart Contract Projects | [Link](#-smart-contract-projects) |
 | ⚡  Exploit Replications | [Link](#-exploit-replications) |
-| 🌐 Development Projects | [Link](#-development-projects) |
+| 🌐 Full-Stack dApp Projects  | [Link](#-full-stack-dapp-projects) |
 | 🎯 CTF Solutions | [Link](#-ctf-solutions) |
 | 📱 Educational Content | [Link](#-educational-content) |
 | 📖 Research Notes | [Link](#-research-notes) |
@@ -120,6 +120,19 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 
 ---
 
+## 🌐 Full-Stack dApp Projects 
+
+*Full-stack decentralized applications demonstrating end-to-end Web3 development.*
+
+| Project | Type | Tech Stack | Live |
+|---------|------|------------|------|
+| [**Gas-Optimized Vault**](./projects/gas-vault/) | DeFi Vault | Solidity, Foundry, Next.js, Wagmi | ✅ [Link](https://vault.example.xyz) |
+| [**NFT Marketplace**](./projects/nft-marketplace/) | NFT Platform | Solidity, Hardhat, React, IPFS | ❌ Not Deployed |
+
+**[📁 View All Development Projects →](./projects/)**
+
+---
+
 ## 🎯 CTF Solutions
 
 ### Ethernaut Solutions
@@ -138,22 +151,7 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 | [Deploy a contract](./ctf/cte/01-deploy/) | Contract Deployment | [💻 Code](./ctf/cte/01-deploy/Solution.sol) |
 
 
-**[📁 View All CTF Solutions →](./ctf/)**
-
----
-
-
-## 💻 Development Projects
-
-*Custom smart contract implementations and prototypes*
-
-| Project | Type | Technology Stack | Status | Description |
-|---------|------|------------------|--------|-------------|
-| [**Gas-Optimized Vault**](./projects/gas-vault/) | ERC-4626 | Solidity, Foundry | ✅ Live | Ultra-efficient yield vault with 40% gas savings |
-| [**Upgradeable Lending**](./projects/proxy-lending/) | Proxy Pattern | OpenZeppelin, Hardhat | 🔄 Beta | Modular lending protocol with upgrade mechanisms |
-| [**MEV Protection**](./projects/mev-protection/) | MEV | Flashbots, Solidity | 📅 Planned | Front-running protection for DEX trades |
-
-**[📁 View All Development Projects →](./projects/)**
+**[📁 View All CTF Solutions →](https://github.com/mdmehedihashanmolla/web3-security-and-dev-portfolio/tree/main/06-CTF-Solutions)**
 
 ---
 
