@@ -40,7 +40,6 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 | ⚡  Exploit Replications | [Link](#-exploit-replications) |
 | 🌐 Full-Stack dApp Projects  | [Link](#-full-stack-dapp-projects) |
 | 🎯 CTF Solutions | [Link](#-ctf-solutions) |
-| 📱 Educational Content | [Link](#-educational-content) |
 | 📖 Research Notes | [Link](#-research-notes) |
 | 🛠️ Custom Tooling | [Link](#️-custom-tooling) |
 | 🧪 Practice & Learning | [Link](#-practice--learning) |
@@ -202,20 +201,6 @@ python slot-analyzer.py MyContract.sol
 ```
 
 **[📁 View All Tools →](./tools/)**
-
----
-
-## 📱 Educational Content
-
-*Public learning initiatives and community contributions*
-
-| Initiative | Platform | Status | Engagement |
-|------------|----------|--------|------------|
-| [**20 Bugs in 20 Days**](./content/20-bugs-campaign/) | Twitter/Blog | ✅ Complete | 10K+ views |
-| [**Auditor's Toolkit**](./content/auditor-toolkit/) | Newsletter | 🔄 Weekly | 1K+ subscribers |
-| [**Security Workshop**](./content/workshops/) | YouTube | 📅 Planned | *Coming Soon* |
-
-**[📁 View All Content →](./content/)**
 
 ---
 
