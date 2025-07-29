@@ -66,7 +66,7 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 - 🎯 **High-severity** findings in production protocols
 - 💰 **$X,XXX** in total bounties earned
 
-**[📁 View All Audit Reports →](./audeits/)**
+**[📁 View All Audit Reports →](https://github.com/mdmehedihashanmolla/web3-security-and-dev-portfolio/tree/main/01-competitive-audits)**
 
 ---
 
