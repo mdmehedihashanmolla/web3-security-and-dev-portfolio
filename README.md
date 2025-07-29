@@ -35,17 +35,20 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 |--------|------|
 | 🏆 Competitive Audits | [Link](#-competitive-audits) |
 | 🔍 Shadow Audits | [Link](#-shadow-audits) |
-| 🎯 CTF Solutions | [Link](#-ctf-solutions) |
 | 🐛 Vulnerability Research | [Link](#-vulnerability-research) |
+| 💻 Smart Contract Projects | [Link](#-smart-contract-projects) |
 | ⚡ Exploit Replications | [Link](#-exploit-replications) |
-| 💻 Development Projects | [Link](#-development-projects) |
+| 🌐 Development Projects | [Link](#-development-projects) |
+| 🎯 CTF Solutions | [Link](#-ctf-solutions) |
 | 🧪 Practice & Learning | [Link](#-practice--learning) |
 | 📖 Research Notes | [Link](#-research-notes) |
 | 🛠️ Custom Tooling | [Link](#️-custom-tooling) |
 | 📱 Educational Content | [Link](#-educational-content) |
 | 🤝 Connect & Collaborate | [Link](#-connect--collaborate) |
 | 📜 Disclaimer | [Link](#️-disclaimer) |
+
 </div>
+
 
 ---
 
