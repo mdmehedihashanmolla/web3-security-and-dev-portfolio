@@ -129,7 +129,7 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 | [**Gas-Optimized Vault**](./projects/gas-vault/) | DeFi Vault | Solidity, Foundry, Next.js, Wagmi | ✅ [Link](https://vault.example.xyz) |
 | [**NFT Marketplace**](./projects/nft-marketplace/) | NFT Platform | Solidity, Hardhat, React, IPFS | ❌ Not Deployed |
 
-**[📁 View All Development Projects →](./projects/)**
+**[📁 View All Development Projects →](https://github.com/mdmehedihashanmolla/web3-security-and-dev-portfolio/tree/main/06-Full-Stack-dApp-Projects%20)**
 
 ---
 
@@ -151,7 +151,7 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 | [Deploy a contract](./ctf/cte/01-deploy/) | Contract Deployment | [💻 Code](./ctf/cte/01-deploy/Solution.sol) |
 
 
-**[📁 View All CTF Solutions →](https://github.com/mdmehedihashanmolla/web3-security-and-dev-portfolio/tree/main/06-CTF-Solutions)**
+**[📁 View All CTF Solutions →](https://github.com/mdmehedihashanmolla/web3-security-and-dev-portfolio/tree/main/07-CTF-Solutions)**
 
 ---
 
