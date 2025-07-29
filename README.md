@@ -166,7 +166,7 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 
 *Skill development and experimental implementations*
 
-**[📁 View Practice Repository →](./practice/)**
+**[📁 View Practice Repository →](https://github.com/mdmehedihashanmolla/web3-security-and-dev-portfolio/tree/main/09-Practice-%26-Learning%20)**
 
 ---
 
