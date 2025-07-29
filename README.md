@@ -87,14 +87,12 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 
 *Original vulnerability research and proof-of-concepts*
 
-| Vulnerability Type | Severity | Examples | Test Suite | Mitigation Guide |
-|-------------------|----------|----------|------------|------------------|
-| [**Reentrancy Attacks**](./vulnerabilities/reentrancy/) | 🔴 High | 5 variants | [🧪 Tests](./vulnerabilities/reentrancy/test/) | [🛡️ Guide](./vulnerabilities/reentrancy/mitigation.md) |
-| [**Integer Overflows**](./vulnerabilities/overflow/) | 🟡 Medium | 3 patterns | [🧪 Tests](./vulnerabilities/overflow/test/) | [🛡️ Guide](./vulnerabilities/overflow/mitigation.md) |
-| [**Access Control**](./vulnerabilities/access-control/) | 🔴 High | 4 scenarios | [🧪 Tests](./vulnerabilities/access-control/test/) | [🛡️ Guide](./vulnerabilities/access-control/mitigation.md) |
-| [**Price Oracle**](./vulnerabilities/oracle/) | 🟠 High | 6 manipulations | 🔄 | *In Progress* |
+| Vulnerability Type   | Severity  | Theory Guide | Examples        | Test Suite   | Mitigation Guide  |
+|----------------------|-----------|--------------|-----------------|--------------|--------------------|
+| [**Reentrancy Attacks**](./vulnerabilities/reentrancy/) | 🔴 High | [📖 Theory](./vulnerabilities/reentrancy/theory.md) | 5 variants | [🧪 Tests](./vulnerabilities/reentrancy/test/) | [🛡️ Guide](./vulnerabilities/reentrancy/mitigation.md) |
 
-**[📁 View All Vulnerability Research →](./vulnerabilities/)**
+
+**[📁 View All Vulnerability Research →](https://github.com/mdmehedihashanmolla/web3-security-and-dev-portfolio/tree/main/03-vulnerabilities)**
 
 ---
 
