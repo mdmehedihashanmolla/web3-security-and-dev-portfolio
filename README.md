@@ -166,12 +166,6 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 
 *Skill development and experimental implementations*
 
-| Topic | Focus Area | Progress | Resources |
-|-------|------------|----------|-----------|
-| [**Assembly Programming**](./practice/assembly/) | Gas Optimization | 🔄 60% | [📚 Examples](./practice/assembly/examples/) |
-| [**Formal Verification**](./practice/formal-verification/) | Correctness Proofs | 📅 Planned | *Coming Soon* |
-| [**Proxy Patterns**](./practice/proxies/) | Upgradeability | ✅ Complete | [📖 Guide](./practice/proxies/patterns.md) |
-
 **[📁 View Practice Repository →](./practice/)**
 
 ---
