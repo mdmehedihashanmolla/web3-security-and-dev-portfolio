@@ -24,7 +24,6 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 - 🔧 Secure smart contracts and developer tooling
 - 🧱 Protocol-level projects (vaults, lending, staking systems)
 - 🌐 Full-stack dApps (frontend-integrated Web3 apps)
-- 📝 Research notes, guides, and educational content
 
 
 <div align="center">
@@ -40,8 +39,7 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 | ⚡  Exploit Replications | [Link](#-exploit-replications) |
 | 🌐 Full-Stack dApp Projects  | [Link](#-full-stack-dapp-projects) |
 | 🎯 CTF Solutions | [Link](#-ctf-solutions) |
-| 📖 Research Notes | [Link](#-research-notes) |
-| 🛠️ Custom Tooling | [Link](#️-custom-tooling) |
+| 🛠️ Security Automation Tools | [Link](#-security-automation-tools) |
 | 🧪 Practice & Learning | [Link](#-practice--learning) |
 | 🤝 Connect & Collaborate | [Link](#-connect--collaborate) |
 | 📜 Disclaimer | [Link](#️-disclaimer) |
@@ -154,6 +152,16 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 
 ---
 
+## 🛠️ Security Automation Tools
+
+| Tool | Purpose | Auditing Focus | Tech Stack | Try It |
+|------|---------|----------------|------------|--------|
+| [**Storage Slot Analyzer**](./tools/slot-analyzer/) | Analyze proxy slot layout | Storage Collisions | Python | [📖 Usage](./tools/slot-analyzer/README.md) |
+
+**[📁 View All Tools →](./tools/)**
+
+---
+
 ## 🧪 Practice & Learning
 
 *Skill development and experimental implementations*
@@ -165,42 +173,6 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 | [**Proxy Patterns**](./practice/proxies/) | Upgradeability | ✅ Complete | [📖 Guide](./practice/proxies/patterns.md) |
 
 **[📁 View Practice Repository →](./practice/)**
-
----
-
-## 📖 Research Notes
-
-*Technical documentation and learning resources*
-
-| Topic | Content Type | Status | Link |
-|-------|--------------|--------|------|
-| [**EVM Deep Dive**](./research/evm-internals/) | Technical Analysis | ✅ | [📄 Read](./research/evm-internals/opcodes.md) |
-| [**Storage Patterns**](./research/storage-layout/) | Best Practices | ✅ | [📄 Read](./research/storage-layout/optimization.md) |
-| [**MEV Landscape**](./research/mev-analysis/) | Market Research | 🔄 | *In Progress* |
-| [**L2 Security Models**](./research/l2-security/) | Comparative Study | 📅 | *Planned* |
-
-**[📁 View All Research →](./research/)**
-
----
-
-## 🛠️ Custom Tooling
-
-*Automation scripts and analysis tools*
-
-| Tool | Language | Purpose | Status | Usage |
-|------|----------|---------|--------|-------|
-| [**Storage Slot Analyzer**](./tools/slot-analyzer/) | Python | Storage layout analysis | ✅ | `python analyze.py <contract>` |
-| [**Foundry Test Generator**](./tools/test-generator/) | JavaScript | Automated test scaffolding | ✅ | `npm run generate <contract>` |
-| [**Gas Reporter**](./tools/gas-reporter/) | Solidity | Detailed gas analysis | 🔄 | *Beta Testing* |
-
-### Featured Tool: Storage Slot Analyzer
-```python
-# Analyze storage layout conflicts and optimizations
-python slot-analyzer.py MyContract.sol
-# Output: Detailed storage map with gas optimization suggestions
-```
-
-**[📁 View All Tools →](./tools/)**
 
 ---
 
