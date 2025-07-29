@@ -37,13 +37,13 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 | 🔍 Shadow Audits | [Link](#-shadow-audits) |
 | 🐛 Vulnerability Research | [Link](#-vulnerability-research) |
 | 💻 Smart Contract Projects | [Link](#-smart-contract-projects) |
-| ⚡ Exploit Replications | [Link](#-exploit-replications) |
+| ⚡  Exploit Replications | [Link](#-exploit-replications) |
 | 🌐 Development Projects | [Link](#-development-projects) |
 | 🎯 CTF Solutions | [Link](#-ctf-solutions) |
-| 🧪 Practice & Learning | [Link](#-practice--learning) |
+| 📱 Educational Content | [Link](#-educational-content) |
 | 📖 Research Notes | [Link](#-research-notes) |
 | 🛠️ Custom Tooling | [Link](#️-custom-tooling) |
-| 📱 Educational Content | [Link](#-educational-content) |
+| 🧪 Practice & Learning | [Link](#-practice--learning) |
 | 🤝 Connect & Collaborate | [Link](#-connect--collaborate) |
 | 📜 Disclaimer | [Link](#️-disclaimer) |
 
@@ -108,6 +108,18 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 
 ---
 
+## ⚡ Exploit Replications
+
+*Historical DeFi hacks recreated for educational purposes*
+
+| Incident | Date | Loss (USD) | Vulnerability | PoC |
+|----------|------|------------|---------------|--------|-----|
+| [**Euler Finance**](./exploits/euler-2023/) | Mar 2023 | $196M | Donation Attack | [🧪 Test](./exploits/euler-2023/test/EulerExploit.t.sol) |
+
+**[📁 View All Exploit Replications →](./exploits/)**
+
+---
+
 ## 🎯 CTF Solutions
 
 *Capture The Flag challenges and educational platforms*
@@ -130,27 +142,6 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 
 ---
 
-
-
-## ⚡ Exploit Replications
-
-*Historical DeFi hacks recreated for educational purposes*
-
-| Incident | Date | Loss (USD) | Vulnerability | Status | PoC |
-|----------|------|------------|---------------|--------|-----|
-| [**Euler Finance**](./exploits/euler-2023/) | Mar 2023 | $196M | Donation Attack | ✅ | [🧪 Test](./exploits/euler-2023/test/EulerExploit.t.sol) |
-| [**Curve Finance**](./exploits/curve-2022/) | Aug 2022 | $570K | Reentrancy | ✅ | [🧪 Test](./exploits/curve-2022/test/CurveExploit.t.sol) |
-| [**Nomad Bridge**](./exploits/nomad-2022/) | Aug 2022 | $190M | Merkle Tree | 🔄 | *In Progress* |
-
-### Technical Analysis Features
-- 📊 **Step-by-step breakdown** of attack vectors
-- 🧪 **Foundry test suites** with detailed comments
-- 🛡️ **Mitigation strategies** and prevention techniques
-- 📈 **Economic impact analysis**
-
-**[📁 View All Exploit Replications →](./exploits/)**
-
----
 
 ## 💻 Development Projects
 
