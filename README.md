@@ -74,13 +74,12 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 
 *Independent security reviews of major protocols*
 
-| Protocol | Type | Focus Area | Status | Report |
-|----------|------|------------|--------|--------|
-| [**Uniswap V3**](./shadow-audits/uniswap-v3/) | DEX | Concentrated Liquidity | ✅ Complete | [📋 Analysis](./shadow-audits/uniswap-v3/security-analysis.md) |
-| [**Compound V3**](./shadow-audits/compound-v3/) | Lending | Risk Management | 🔄 In Progress | *Coming Soon* |
-| [**Aave V3**](./shadow-audits/aave-v3/) | Lending | Cross-chain | 📅 Planned | *Upcoming* |
+| Protocol       | Type        | Focus Area               | Language | Date       | Report     |
+|----------------|-------------|---------------------------|----------|------------|------------|
+| [**Uniswap V3**](./shadow-audits/uniswap-v3/) | DEX (Demo Structure) | Concentrated Liquidity | Solidity | March 2025 | [📋 PDF](./shadow-audits/uniswap-v3/security-analysis.md) |
 
-**[📁 View All Shadow Audits →](./shadow-audits/)**
+
+**[📁 View All Shadow Audits →](https://github.com/mdmehedihashanmolla/web3-security-and-dev-portfolio/tree/main/02-shadow-audits)**
 
 ---
 
