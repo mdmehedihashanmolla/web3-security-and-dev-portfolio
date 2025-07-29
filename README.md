@@ -39,7 +39,7 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 | ⚡  Exploit Replications | [Link](#-exploit-replications) |
 | 🌐 Full-Stack dApp Projects  | [Link](#-full-stack-dapp-projects) |
 | 🎯 CTF Solutions | [Link](#-ctf-solutions) |
-| 🛠️ Security Automation Tools | [Link](#-security-automation-tools) |
+| 🛠️ Security Automation Tools | [Link](#️-security-automation-tools) |
 | 🧪 Practice & Learning | [Link](#-practice--learning) |
 | 🤝 Connect & Collaborate | [Link](#-connect--collaborate) |
 | 📜 Disclaimer | [Link](#️-disclaimer) |
@@ -158,7 +158,7 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 |------|---------|----------------|------------|--------|
 | [**Storage Slot Analyzer**](./tools/slot-analyzer/) | Analyze proxy slot layout | Storage Collisions | Python | [📖 Usage](./tools/slot-analyzer/README.md) |
 
-**[📁 View All Tools →](./tools/)**
+**[📁 View All Tools →](https://github.com/mdmehedihashanmolla/web3-security-and-dev-portfolio/tree/main/08-Security-Automation-Tools%20)**
 
 ---
 
