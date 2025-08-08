@@ -176,7 +176,7 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 | Platform       | Link                                                                 |
 |----------------|----------------------------------------------------------------------|
 | 🐦 **Twitter**  | [@0xMehediSec](https://x.com/0xMehediSec)                           |
-| 💼 **LinkedIn** | [MD Mehedi Hashan Molla](Inactive)                                  |
+| 💼 **LinkedIn** | [MD Mehedi Hashan Molla] (Inactive)                                 |
 | 📧 **Email**    | `mdmehedihashanmolla@gmail.com`                                     |
 | ✍️ **Blog**     | [Medium Articles](https://medium.com/@mdmehedihashanmolla)          |
 
