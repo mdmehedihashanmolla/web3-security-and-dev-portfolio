@@ -84,9 +84,9 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 
 *Original vulnerability research and proof-of-concepts*
 
-| Vulnerability Type   | Theory Guide | Test Suite   | Mitigation Guide  |
-|----------------------|--------------|--------------|-------------------|
-| [**1.Single Function Reentrancy**](./vulnerabilities/reentrancy/) | [📖 Theory](./vulnerabilities/reentrancy/theory.md) | [🧪 PoC](./vulnerabilities/reentrancy/test/) | [🛡️ Guide](./vulnerabilities/reentrancy/mitigation.md) |
+| Vulnerability Type   | Theory / Mitigation Guide | Test Suite   |
+|----------------------|---------------------------|--------------|
+| [**1. Single Function Reentrancy**](https://github.com/mdmehedihashanmolla/web3-security-and-dev-portfolio/blob/main/03-Vulnerability-Research/vulnerability/src/reentrancy/1_SingleFunction.sol) | [📖 Theory / Mitigation ](https://github.com/mdmehedihashanmolla/web3-security-and-dev-portfolio/blob/main/03-Vulnerability-Research/vulnerability/src/reentrancy/Readme.md) | [🧪 PoC](https://github.com/mdmehedihashanmolla/web3-security-and-dev-portfolio/blob/main/03-Vulnerability-Research/vulnerability/test/reentrancy/1_SingleFunction.t.sol) |
 
 **[📁 View All Vulnerability Research →](https://github.com/mdmehedihashanmolla/web3-security-and-dev-portfolio/tree/main/03-Vulnerability-Research)**
 
