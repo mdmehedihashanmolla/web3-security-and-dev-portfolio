@@ -84,9 +84,9 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 
 *Original vulnerability research and proof-of-concepts*
 
-| Vulnerability Type   | Severity  | Theory Guide | Examples        | Test Suite   | Mitigation Guide  |
+| Vulnerability Type   | Theory Guide | Test Suite   | Mitigation Guide  |
 |----------------------|-----------|--------------|-----------------|--------------|--------------------|
-| [**Reentrancy Attacks**](./vulnerabilities/reentrancy/) | 🔴 High | [📖 Theory](./vulnerabilities/reentrancy/theory.md) | 5 variants | [🧪 Tests](./vulnerabilities/reentrancy/test/) | [🛡️ Guide](./vulnerabilities/reentrancy/mitigation.md) |
+| [**Reentrancy Attacks**](./vulnerabilities/reentrancy/) | [📖 Theory](./vulnerabilities/reentrancy/theory.md) | [🧪 Tests](./vulnerabilities/reentrancy/test/) | [🛡️ Guide](./vulnerabilities/reentrancy/mitigation.md) |
 
 
 **[📁 View All Vulnerability Research →](https://github.com/mdmehedihashanmolla/web3-security-and-dev-portfolio/tree/main/03-Vulnerability-Research)**
