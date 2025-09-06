@@ -21,7 +21,6 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 - 🛡️ Competitive audit reports 
 - 💥 Vulnerability research with PoCs and mitigation guides
 - 📊 Real-world hack replications with technical breakdowns
-- 🔧 Secure smart contracts and developer tooling
 - 🧱 Protocol-level projects (vaults, lending, staking systems)
 - 🌐 Full-stack dApps (frontend-integrated Web3 apps)
 
