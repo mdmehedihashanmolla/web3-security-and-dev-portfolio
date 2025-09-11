@@ -140,9 +140,9 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 ## 🎯 CTF Solutions
 
 ### Ethernaut Solutions
-| Challenge | Topic | Solution |
-|-----------|-------|----------|
-| [Fallback](./ctf/ethernaut/01-fallback/) | Access Control | [💻 Code](./ctf/ethernaut/01-fallback/Exploit.sol) |
+| Challenge | 
+|-----------|
+| [Fallback](./ctf/ethernaut/01-fallback/) | 
 
 
 
