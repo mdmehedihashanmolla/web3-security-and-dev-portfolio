@@ -142,7 +142,46 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 ### Ethernaut Solutions
 | Challenge | 
 |-----------|
-| [Fallback](./ctf/ethernaut/01-fallback/) | 
+| [00. Hello Ethernaut](https://github.com/mdmehedihashanmolla/web3-security-and-dev-portfolio/blob/main/07-CTF-Solutions/Ethernaut/00-Hello_Ethernaut/Readme.md) | 
+| [01. Fallback](https://github.com/mdmehedihashanmolla/web3-security-and-dev-portfolio/blob/main/07-CTF-Solutions/Ethernaut/01-Fallback/Readme.md) | 
+| [02. Fallout](https://github.com/mdmehedihashanmolla/web3-security-and-dev-portfolio/blob/main/07-CTF-Solutions/Ethernaut/02-Fallout/Readme.md) | 
+| [03. Coin Flip](https://github.com/mdmehedihashanmolla/web3-security-and-dev-portfolio/blob/main/07-CTF-Solutions/Ethernaut/03-CoinFlip/Readme.md) | 
+| [04. Telephone](https://github.com/mdmehedihashanmolla/web3-security-and-dev-portfolio/blob/main/07-CTF-Solutions/Ethernaut/04-Telephone/Readme.md) | 
+| [00-Hello_Ethernaut](./ctf/ethernaut/01-fallback/) | 
+| [00-Hello_Ethernaut](./ctf/ethernaut/01-fallback/) | 
+| [00-Hello_Ethernaut](./ctf/ethernaut/01-fallback/) | 
+| [00-Hello_Ethernaut](./ctf/ethernaut/01-fallback/) | 
+| [00-Hello_Ethernaut](./ctf/ethernaut/01-fallback/) | 
+| [00-Hello_Ethernaut](./ctf/ethernaut/01-fallback/) | 
+| [00-Hello_Ethernaut](./ctf/ethernaut/01-fallback/) | 
+| [00-Hello_Ethernaut](./ctf/ethernaut/01-fallback/) | 
+| [00-Hello_Ethernaut](./ctf/ethernaut/01-fallback/) | 
+| [00-Hello_Ethernaut](./ctf/ethernaut/01-fallback/) | 
+| [00-Hello_Ethernaut](./ctf/ethernaut/01-fallback/) | 
+| [00-Hello_Ethernaut](./ctf/ethernaut/01-fallback/) | 
+| [00-Hello_Ethernaut](./ctf/ethernaut/01-fallback/) | 
+| [00-Hello_Ethernaut](./ctf/ethernaut/01-fallback/) | 
+| [00-Hello_Ethernaut](./ctf/ethernaut/01-fallback/) | 
+| [00-Hello_Ethernaut](./ctf/ethernaut/01-fallback/) | 
+| [00-Hello_Ethernaut](./ctf/ethernaut/01-fallback/) | 
+| [00-Hello_Ethernaut](./ctf/ethernaut/01-fallback/) | 
+| [00-Hello_Ethernaut](./ctf/ethernaut/01-fallback/) | 
+| [00-Hello_Ethernaut](./ctf/ethernaut/01-fallback/) | 
+| [00-Hello_Ethernaut](./ctf/ethernaut/01-fallback/) | 
+| [00-Hello_Ethernaut](./ctf/ethernaut/01-fallback/) | 
+| [00-Hello_Ethernaut](./ctf/ethernaut/01-fallback/) | 
+| [00-Hello_Ethernaut](./ctf/ethernaut/01-fallback/) | 
+| [00-Hello_Ethernaut](./ctf/ethernaut/01-fallback/) | 
+| [00-Hello_Ethernaut](./ctf/ethernaut/01-fallback/) | 
+| [00-Hello_Ethernaut](./ctf/ethernaut/01-fallback/) | 
+| [00-Hello_Ethernaut](./ctf/ethernaut/01-fallback/) | 
+| [00-Hello_Ethernaut](./ctf/ethernaut/01-fallback/) | 
+| [00-Hello_Ethernaut](./ctf/ethernaut/01-fallback/) | 
+| [00-Hello_Ethernaut](./ctf/ethernaut/01-fallback/) | 
+| [00-Hello_Ethernaut](./ctf/ethernaut/01-fallback/) | 
+| [00-Hello_Ethernaut](./ctf/ethernaut/01-fallback/) | 
+| [00-Hello_Ethernaut](./ctf/ethernaut/01-fallback/) | 
+
 
 
 
