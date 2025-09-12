@@ -67,12 +67,12 @@ contract Fallout {
    - This means **anyone can call it** after deployment and set themselves as `owner`.  
    - The `owner` can then call `collectAllocations()` to drain the entire contract balance.  
 
-2. **Exploit steps**
+2. **Exploit Method**
    - Call `Fal1out()` → ownership is transferred to us.  
    - Verify with `owner()` → attacker’s address is now the owner.  
 ---
 
-## 💻 Exploit Interface
+## Exploit Interface
 
 ```solidity
 // SPDX-License-Identifier: MIT

@@ -71,7 +71,7 @@ contract Fallback {
      ```
      → If we send ETH with empty calldata *and* have a non-zero contribution, we become `owner`.
 
-2. **Exploit steps**
+2. **Exploit Method**
    - Call `contribute()` with a very small amount (e.g., `1 wei`) → this gives `contributions[msg.sender] > 0`.  
    - Send a transaction with **empty calldata** but with some ETH (`1 wei`) → triggers `receive()` and sets `owner = msg.sender`.  
    - Now that we are `owner`, call `withdraw()` to drain the contract.
