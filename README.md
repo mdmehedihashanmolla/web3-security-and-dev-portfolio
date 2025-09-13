@@ -136,6 +136,7 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 **[📁 View All Development Projects →](https://github.com/mdmehedihashanmolla/web3-security-and-dev-portfolio/tree/main/06-Full-Stack-dApp-Projects%20)**
 
 ---
+<div align="center">
 
 ## 🎯 CTF Solutions
 
@@ -172,7 +173,7 @@ A showcase of real-world work as a **Web3 Security Researcher** and **Developer*
 
 
 **[📁 View All CTF Solutions →](https://github.com/mdmehedihashanmolla/web3-security-and-dev-portfolio/tree/main/07-CTF-Solutions)**
-
+</div>
 ---
 
 # 🌐 Connect & Collaborate  
