@@ -28,6 +28,7 @@ A portfolio of competitive audits, shadow audits, and security research across E
 |:--|:--|:--:|:--:|:--:|
 | **Immunefi** | Example Protocol | `EVM` | 🔴 High | [📄 Report](./bounties/immunefi/example-protocol/) |
 
+---
 
 ## 🔍 Shadow Audits
 
