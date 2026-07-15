@@ -1,13 +1,6 @@
 <div align="center">
   <h1>🛡️ Web3 Security Portfolio </h1>
-  <p><strong> Web3 Security Researcher </strong></p>
-  
-  <img src="https://img.shields.io/badge/Competitive Audits-blueviolet?style=flat-square&logo=shield" alt="Competitive Audits" />
-  <img src="https://img.shields.io/badge/Shadow Audits-gray?style=flat-square&logo=code" alt="Shadow Audits" />
-  <img src="https://img.shields.io/badge/CTF Solutions-orange?style=flat-square&logo=terminal" alt="CTF Solutions" />
-  <img src="https://img.shields.io/badge/Dev Projects-green?style=flat-square&logo=ethereum" alt="Development Projects" />
-  <img src="https://img.shields.io/badge/Vulnerability Research-red?style=flat-square&logo=bug" alt="Vulnerability Research" />
-  <img src="https://img.shields.io/badge/Smart_Contracts-9cf?style=flat-square&logo=blockchain-dot-com&logoColor=black" alt="Smart Contract Projects" />
+  <p><strong> Blockchain Security Researcher </strong></p>
 
 </div>
 
