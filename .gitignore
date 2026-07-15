@@ -1,5 +1,0 @@
-git rm -r --cached 03-Vulnerability-Research
-git rm -r --cached 04-Smart-Contract-Projects
-git rm -r --cached 05-Exploit-Replications
-git rm -r --cached 06-Full-Stack-dApp-Projects
-git rm -r --cached 07-CTF-Solutions
