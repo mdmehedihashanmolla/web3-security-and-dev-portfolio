@@ -50,7 +50,3 @@ A portfolio of competitive audits, shadow audits, and security research across E
 - 🐛 Bug Bounties
 
 ---
-
-## 📜 Disclaimer
-
-All content in this repository is for educational and security research purposes only.
