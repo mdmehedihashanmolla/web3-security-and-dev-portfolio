@@ -7,20 +7,6 @@
 ## 📋 Overview
 A portfolio of competitive audits, shadow audits, and security research across EVM and Solana ecosystems.
 
-<div align="center">
-
-## 📚 Table of Contents
-
-| Section | Link |
-|--------|------|
-| 🏆 Competitive Audits | [Link](#-competitive-audits) |
-| 🔍 Shadow Audits | [Link](#-shadow-audits) |
-| 🤝 Connect & Collaborate | [Link](#-connect--collaborate) |
-| 📜 Disclaimer | [Link](#️-disclaimer) |
-
-</div>
-
-
 ---
 ## 🏆 Competitive Audits
 
@@ -48,8 +34,6 @@ A portfolio of competitive audits, shadow audits, and security research across E
 
 ---
 
-
-</div>
 
 # 🌐 Connect & Collaborate  
 
