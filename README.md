@@ -25,17 +25,12 @@ A portfolio of competitive audits, shadow audits, and security research across E
 
 ## 🏆 Competitive Audits
 
-*Professional audit contest submissions and rankings*
+*Public audit contests with validated findings.*
 
-| Contest Platform | Protocol | Language  | Date     | Report |
-|------------------|----------|-----------|----------|--------|
-| **Code4rena**    | [Vault Protocol (Demo Structure)](./audits/code4rena/vault-protocol/) | Solidity  | Jul 2025 | [📄 PDF](./audits/code4rena/vault-protocol/findings.md) |
+| Platform | Protocol | Ecosystem | Results | Rank | Report |
+|:--|:--|:--:|:--|:--:|:--:|
+| **DualGuard** | AlignerZ | `EVM` | 🔴 2 High · 🟡 1 Low | `#87` | [📄 Report](./audits/dualguard/alignerz/) |
 
-
-### Key Achievements  *(Demo Format)*
-- 🥇 **Top 10%** ranking in Code4rena contests
-- 🎯 **High-severity** findings in production protocols
-- 💰 **$X,XXX** in total bounties earned
 
 **[📁 View All Audit Reports →](https://github.com/mdmehedihashanmolla/web3-security-and-dev-portfolio/tree/main/01-Competitive-Audits)**
 
