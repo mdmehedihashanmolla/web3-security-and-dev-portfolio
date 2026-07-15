@@ -1,21 +1,11 @@
 <div align="center">
-  <h1>🛡️ Web3 Security Portfolio </h1>
-  <p><strong> Blockchain Security Researcher </strong></p>
-
+  <h1>🛡️ Web3 Security Portfolio</h1>
+  <p><strong>Blockchain Security Researcher</strong></p>
+  <p><strong>EVM • Solana</strong></p>
 </div>
 
 ## 📋 Overview
-
-A showcase of real-world work as a **Web3 Security Researcher** and **Developer**.
-
-## 🚀 Highlights
-
-- 🛡️ Competitive audit reports 
-- 💥 Vulnerability research with PoCs and mitigation guides
-- 📊 Real-world hack replications with technical breakdowns
-- 🧱 Protocol-level projects (vaults, lending, staking systems)
-- 🌐 Full-stack dApps (frontend-integrated Web3 apps)
-
+A portfolio of competitive audits, shadow audits, and security research across EVM and Solana ecosystems.
 
 <div align="center">
 
