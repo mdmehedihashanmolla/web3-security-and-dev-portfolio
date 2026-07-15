@@ -1,7 +1,6 @@
 <div align="center">
-  <h1>🛡️ Web3 Security & Development Portfolio</h1>
-  <p><strong> Web3 Security Researcher & Developer</strong></p>
-  <p><em>Building the future by breaking what's broken.</em></p>
+  <h1>🛡️ Web3 Security Portfolio </h1>
+  <p><strong> Web3 Security Researcher </strong></p>
   
   <img src="https://img.shields.io/badge/Competitive Audits-blueviolet?style=flat-square&logo=shield" alt="Competitive Audits" />
   <img src="https://img.shields.io/badge/Shadow Audits-gray?style=flat-square&logo=code" alt="Shadow Audits" />
