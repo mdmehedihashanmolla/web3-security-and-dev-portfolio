@@ -20,6 +20,15 @@ A portfolio of competitive audits, shadow audits, and security research across E
 
 ---
 
+## 🐛 Bug Bounties
+
+*Vulnerabilities disclosed through public bug bounty programs.*
+
+| Platform | Protocol | Ecosystem | Severity | Report |
+|:--|:--|:--:|:--:|:--:|
+| **Immunefi** | Example Protocol | `EVM` | 🔴 High | [📄 Report](./bounties/immunefi/example-protocol/) |
+
+
 ## 🔍 Shadow Audits
 
 *Independent security assessments of production protocols.*
