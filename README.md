@@ -22,7 +22,6 @@ A portfolio of competitive audits, shadow audits, and security research across E
 
 
 ---
-
 ## 🏆 Competitive Audits
 
 *Public audit contests with validated findings.*
@@ -38,11 +37,11 @@ A portfolio of competitive audits, shadow audits, and security research across E
 
 ## 🔍 Shadow Audits
 
-*Independent security reviews of major protocols*
+*Independent security assessments of production protocols.*
 
-| Protocol | Type | Focus Area | Language | Findings Report | Missed Issues |
-|----------|------|------------|----------|-----------------|---------------|
-| [**Uniswap V3**](./shadow-audits/uniswap-v3/) | DEX (Demo Structure) | Concentrated Liquidity | Solidity | [📋 Security Analysis (PDF)](./shadow-audits/uniswap-v3/security-analysis.md) | [📄 Missed Report (PDF)](./shadow-audits/uniswap-v3/security-analysis.md) |
+| Protocol | Category | Ecosystem | Findings | Report |
+|:--|:--|:--:|:--|:--:|
+| **Example** | Lending | `EVM` | 🟠 1 High · 🟡 3 Medium | [📄 Report](./audits/shadow/morpho-midnight/) |
 
 
 **[📁 View All Shadow Audits →](https://github.com/mdmehedihashanmolla/web3-security-and-dev-portfolio/tree/main/02-Shadow-Audits)**
