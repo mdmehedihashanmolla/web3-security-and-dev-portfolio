@@ -13,7 +13,7 @@ A portfolio of competitive audits, shadow audits, and security research across E
 
 | Platform | Protocol | Ecosystem | Results | Rank | Report |
 |:--|:--|:--:|:--|:--:|:--:|
-| **DualGuard** | AlignerZ | `EVM` | **2H · 1L** | `#87` | [📄 Report](./audits/dualguard/alignerz/) |
+| **DualGuard** | AlignerZ | **EVM** | `2H` · `1L` | `#87` | [📄 Report](./audits/dualguard/alignerz/) |
 
 
 **[📁 View All Audit Reports →](https://github.com/mdmehedihashanmolla/web3-security-and-dev-portfolio/tree/main/01-Competitive-Audits)**
@@ -26,7 +26,7 @@ A portfolio of competitive audits, shadow audits, and security research across E
 
 | Protocol | Category | Ecosystem | Findings | Report |
 |:--|:--|:--:|:--|:--:|
-| **Example** | Lending | `EVM` |  `2H` · `1L`| [📄 Report](./audits/shadow/morpho-midnight/) |
+| **Example** | Lending | **EVM** |  `2H` · `1L`| [📄 Report](./audits/shadow/morpho-midnight/) |
 
 
 **[📁 View All Shadow Audits →](https://github.com/mdmehedihashanmolla/web3-security-and-dev-portfolio/tree/main/02-Shadow-Audits)**
