@@ -11,9 +11,9 @@ A portfolio of competitive audits, shadow audits, and security research across E
 
 *Public audit contests with validated findings.*
 
-| Platform | Protocol | Ecosystem | Results | Rank | Report |
+| Platform | Protocol | Ecosystem | Validated Findings | Rank | Findings |
 |:--|:--|:--:|:--|:--:|:--:|
-| **DualGuard** | AlignerZ | **EVM** | `2H` · `1L` | `#87` | [📄 Report](./audits/dualguard/alignerz/) |
+| **DualGuard** | AlignerZ | **EVM** | `2H` · `1L` | `#87` | [📄 Findings](./audits/dualguard/alignerz/) |
 
 
 ---
@@ -22,9 +22,9 @@ A portfolio of competitive audits, shadow audits, and security research across E
 
 *Vulnerabilities disclosed through public bug bounty programs.*
 
-| Platform | Protocol | Ecosystem | Severity | Report |
+| Platform | Protocol | Ecosystem | Severity | Findings |
 |:--|:--|:--:|:--:|:--:|
-| **Immunefi** | Example Protocol | `EVM` | 🔴 High | [📄 Report](./bounties/immunefi/example-protocol/) |
+| **Immunefi** | Example Protocol | `EVM` | 🔴 High | [📄 Findings](./bounties/immunefi/example-protocol/) |
 
 ---
 
