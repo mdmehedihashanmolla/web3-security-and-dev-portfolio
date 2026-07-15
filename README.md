@@ -6,7 +6,6 @@
 
 ## 📋 Overview
 A portfolio of competitive audits, shadow audits, and security research across EVM and Solana ecosystems.
-
 ---
 ## 🏆 Competitive Audits
 
@@ -34,34 +33,24 @@ A portfolio of competitive audits, shadow audits, and security research across E
 
 ---
 
+## 🌐 Connect
 
-# 🌐 Connect & Collaborate  
+| Platform | Link |
+|:--|:--|
+| 🐦 **X** | [@0xMehediSec](https://x.com/0xMehediSec) |
+| 💼 **LinkedIn** | Coming Soon |
+| ✍️ **Medium** | [@mdmehedihashanmolla](https://medium.com/@mdmehedihashanmolla) |
+| 📧 **Email** | [mdmehedihashanmolla@gmail.com](mailto:mdmehedihashanmolla@gmail.com) |
 
-### 🔗 **Professional Profiles**  
-| Platform       | Link                                                                 |
-|----------------|----------------------------------------------------------------------|
-| 🐦 **Twitter**  | [@0xMehediSec](https://x.com/0xMehediSec)                           |
-| 💼 **LinkedIn** | [MD Mehedi Hashan Molla] (Inactive)                                 |
-| 📧 **Email**    | `mdmehedihashanmolla@gmail.com`                                     |
-| ✍️ **Blog**     | [Medium Articles](https://medium.com/@mdmehedihashanmolla)          |
+### 🚀 Open To
 
+- 🛡️ Security Audits & Research (EVM • Solana)
+- 👨‍💻 Blockchain Development (EVM • Solana)
+- 🔬 DeFi Protocol Design & Security
+- 🐛 Bug Bounties
 
+---
 
-### 🚀 **Open To**  
-- **🛡️ Web3 Audits**  
-  → DeFi protocols | L2 solutions | Novel architectures  
-- **👨‍💻 Development**  
-  → Smart Contracts | Full-Stack dApps | Security Tooling  
-- **🔬 Research**  
-  → Novel attack vectors | Gas optimization | Protocol analysis  
-- **🎤 Engagement**  
-  → Conference Talks | Mentorship | Technical Writing  
+## 📜 Disclaimer
 
----  
-
-# ⚠️ Disclaimer  
-
-**For Educational Use Only**  
-All code, writeups, and exploits in this repository are for **educational purposes only**.  
-Do not use this content for unauthorized or malicious activities.
-
+All content in this repository is for educational and security research purposes only.
