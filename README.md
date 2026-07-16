@@ -13,10 +13,10 @@ A portfolio of competitive audits, shadow audits, and security research across E
 
 | Platform | Protocol | Ecosystem | Validated Findings | Rank | Findings |
 |:--|:--|:--:|:--|:--:|:--:|
-| **DualGuard** | AlignerZ | `EVM` | `2H` · `1L` | `#87` | [📄 Findings](./audits/dualguard/alignerz/) |
+| **DualGuard** | AlignerZ | `EVM` | `2H` · `1L` | `#87` | [📄 H-1](https://github.com/mdmehedihashanmolla/Web3-Security-Portfolio/blob/main/Competitive-Audits/dualguard/alignerz/H1.md)<br>[📄 H-2](https://github.com/mdmehedihashanmolla/Web3-Security-Portfolio/blob/main/Competitive-Audits/dualguard/alignerz/H2.md) <br>[📄 L-1](https://github.com/mdmehedihashanmolla/Web3-Security-Portfolio/blob/main/Competitive-Audits/dualguard/alignerz/L1.md) |
 | **Code4rena** | Chainlink Payment Abstraction V2 | `EVM` | `1M` · `1L` | `#11` | [📄 M-1](./M-1.md)<br>[📄 L-1](./L-1.md) |
-| **Cantina** | Revert Finance - StableSwap Hooks | `EVM` | `1H` · `1M` | `#56` | [📄 Findings](./audits/cantina/revert-finance-stableswap-hooks/) |
-| **Cantina** | Reserve Governor | `EVM` | `1L` | — | [📄 Findings](./audits/cantina/reserve-governor/) |
+| **Cantina** | Revert Finance - StableSwap Hooks | `EVM` | `1H` · `1M` | `#56` | [📄 M-1](./M-1.md)<br>[📄 L-1](./L-1.md) |
+| **Cantina** | Reserve Governor | `EVM` | `1L` | — | [📄 M-1](./M-1.md)<br>[📄 L-1](./L-1.md) |
 
 
 ---
