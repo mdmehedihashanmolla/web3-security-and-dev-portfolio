@@ -13,7 +13,10 @@ A portfolio of competitive audits, shadow audits, and security research across E
 
 | Platform | Protocol | Ecosystem | Validated Findings | Rank | Findings |
 |:--|:--|:--:|:--|:--:|:--:|
-| **DualGuard** | AlignerZ | **EVM** | `2H` · `1L` | `#87` | [📄 Findings](./audits/dualguard/alignerz/) |
+| **DualGuard** | AlignerZ | `EVM` | `2H` · `1L` | `#87` | [📄 Findings](./audits/dualguard/alignerz/) |
+| **Code4rena** | Chainlink Payment Abstraction V2 | `EVM` | `1M` · `1L` | `#11` | [📄 Findings](./audits/code4rena/chainlink-payment-abstraction-v2/) |
+| **Cantina** | Revert Finance - StableSwap Hooks | `EVM` | `1H` · `1M` | `#56` | [📄 Findings](./audits/cantina/revert-finance-stableswap-hooks/) |
+| **Cantina** | Reserve Governor | `EVM` | `1L` | — | [📄 Findings](./audits/cantina/reserve-governor/) |
 
 
 ---
